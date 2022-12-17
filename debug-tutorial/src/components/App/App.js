@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import React, { createContext, useState } from 'react';
-import 'C:/Users/DELL/Desktop/HomeWork React/debug-tutorial/src/components/App/App.css';
+import 'C:/Users/DELL/Desktop/Labs/debug-tutorial/src/components/App/App.css';
 import TextInformation from '../TextInformation/TextInformation';
 
 
